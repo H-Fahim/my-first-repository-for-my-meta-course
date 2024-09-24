@@ -1,1 +1,1 @@
-# my-first-repository-for-my-meta-course
+my-meta-course
